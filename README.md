@@ -6,7 +6,7 @@ _Tengo 25 años y soy estudiante de Ingenieria en Computación en la Universidad
 Me gusta ir al gimnasio.
 
 
-Estoy muy interesado en las posibilidades de la robotica y la inteligencia artificial.
+Estoy interesado en la robotica y la inteligencia artificial.
 
 
 ![Badge](https://bit.ly/icom-badge)
