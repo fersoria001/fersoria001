@@ -2,6 +2,7 @@
 _Nací en San Carlos de Bariloche._
 
 _Tengo 25 años y soy estudiante de Ingenieria en Computación en la Universidad Nacional de Rio Negro._
+_Soy Desarrollador Web Full-Stack gracias al programa Oracle Next Education._
 
 Me gusta ir al gimnasio.
 
